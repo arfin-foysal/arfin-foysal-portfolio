@@ -1,4 +1,4 @@
-const logotext = "ARFIN";
+const logotext = "ARFINs";
 const meta = {
     title: "Arfin Foysal",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
