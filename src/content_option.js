@@ -13,7 +13,7 @@ const introdata = {
         third: "I Develop Software",
 
     },
-    description: "I’m a Software Developer _ Full stack developer,currently working in MERN Stack",
+    description: "I’m a Software Developer _ Full stack developer,currently working in MERN Stack Software Development.",
     your_img_url: "https://miro.medium.com/max/1400/1*q884i9FEPL34MbvM7R_-OA.jpeg",
 };
 
