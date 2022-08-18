@@ -74,9 +74,14 @@ const skills = [
     },
  
     {
-        name: "React Js",
-        value: 80,
+        name: "MySql",
+        value: 60,
     },
+    {
+        name: "MongoDB",
+        value: 60,
+    },
+  
     {
         name: "Jquery",
         value: 65,
