@@ -69,7 +69,7 @@ const skills = [
         value: 50,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 50,
     },
  

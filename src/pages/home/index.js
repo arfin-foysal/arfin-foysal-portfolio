@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 export const Home = () => {
   return (
     <HelmetProvider>
-      <section id="home" className="home pl-4">
+      <section id="home" className="home">
         <Helmet>
           <meta charSet="utf-8" />
           <title> {meta.title}</title>
