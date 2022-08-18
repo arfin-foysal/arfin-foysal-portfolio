@@ -5,10 +5,11 @@ import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
 
+
 export const Home = () => {
   return (
     <HelmetProvider>
-      <section id="home" className="home">
+      <section id="home" className="home pl-4">
         <Helmet>
           <meta charSet="utf-8" />
           <title> {meta.title}</title>
@@ -37,16 +38,19 @@ export const Home = () => {
                     }}
                   />
                 </h1>
+                
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
-                  <Link to="/portfolio" className="text_2">
+                  
+                  <a href="Md.Foysal Ahmmad.pdf"
+                    download='Md.Foysal Ahmmad.pdf' className="text_2">
                     <div id="button_p" className="ac_btn btn ">
-                      My Portfolio
+                    Resume 
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                  </Link>
+                  </a>
                   <Link to="/contact">
                     <div id="button_h" className="ac_btn btn">
                       Contact Me

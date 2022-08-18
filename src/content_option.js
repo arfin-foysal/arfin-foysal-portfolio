@@ -9,8 +9,9 @@ const introdata = {
     title: "I’m Foysal Ahmmad Arfin.",
     animated: {
         first: "I love coding",
-        second: "I code cool Software",
-        third: "I develop apps",
+        second: "I Develop Web Applications",
+        third: "I Develop Software",
+
     },
     description: "I’m a Software Developer _ Full stack devloper,currently working in BD",
     your_img_url: "https://miro.medium.com/max/1400/1*q884i9FEPL34MbvM7R_-OA.jpeg",
